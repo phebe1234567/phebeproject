@@ -1,2 +1,6 @@
-"Initial proposed features:-\n User authentication\n- Data storage"
+-Initial proposed features
+-User authentication\n
+- Data storage
 - Reporting module
+-Enhanced contact features
+
